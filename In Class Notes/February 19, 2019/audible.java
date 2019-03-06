@@ -1,5 +1,5 @@
 package javaaplication2;
 
-public interace audible {
+public interface audible {
     public void noise();
 }
